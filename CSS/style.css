@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+
+header {
+    background: #b9c0c5;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.logo {
+    height: 100px;
+}
+
+.green {
+    background-color: #4fed63 !important;
+}
+
+.btn-green {
+    background-color: #4fed63 !important;
+}
+
+.border-green {
+    border: 1px solid #4fed63 !important;
+}
