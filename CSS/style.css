@@ -27,3 +27,8 @@ img {
 .border-green {
     border: 1px solid #4fed63 !important;
 }
+
+h1 {
+    font-family: 'audiowide';
+    color: #4fed63;
+}
