@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&family=Audiowide&family=Josefin+Sans:ital,wght@0,400;1,300&display=swap');
+
 * {
     box-sizing: border-box;
 }
@@ -31,4 +33,12 @@ img {
 h1 {
     font-family: 'audiowide';
     color: #4fed63;
+}
+
+.fa-brands {
+    color: #4fed63 !important;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
 }
